@@ -50,15 +50,9 @@
 								</a>
 							</li>
 							<li class="mx-3">
-								<a class="facebook" href="<?php getlinks("links","googleplus");?>">
-									<i class="fab fa-google-plus-g"></i>
-									<span>Google+</span>
-								</a>
-							</li>
-							<li>
-								<a class="facebook" href="<?php getlinks("links","pinterest");?>">
-									<i class="fab fa-pinterest-p"></i>
-									<span>Pinterest</span>
+								<a class="facebook" href="<?php getlinks("links","instagram");?>">
+									<i class="fab fa-instagram"></i>
+									<span>Instagram</span>
 								</a>
 							</li>
 						</ul>
