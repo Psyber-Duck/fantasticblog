@@ -17,7 +17,7 @@
                   </div>
                   <div class="col-xs-6 text-right">
                     <p class="announcement-heading"><?php countrecords("blogs","all");?></p>
-                    <p class="announcement-text"><strong>Blogs</strong></p>
+                    <p class="announcement-text"><strong>News</strong></p>
                   </div>
                 </div>
               </div>
