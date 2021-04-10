@@ -91,10 +91,8 @@
 										<li>
 											<a class="instagram" href="<?php getlinks("links","instagram");?>">
 												<i class="fab fa-instagram"></i>
-
 												<span class="count"></span> Instagram</a>
 											</li>
-
 											</ul>
 										</div>
 										<div class="tech-btm">

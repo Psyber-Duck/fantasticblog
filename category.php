@@ -79,17 +79,10 @@ $row = mysqli_fetch_assoc($result);?>
 											<span class="count"></span> Facebook</a>
 										</li>
 										<li>
-											<a class="dribble" href="<?php getlinks("links","dribble");?>">
-												<i class="fab fa-dribbble"></i>
-
-												<span class="count"></span> Dribble</a>
+											<a class="instagram" href="<?php getlinks("links","instagram");?>">
+												<i class="fab fa-instagram"></i>
+												<span class="count"></span> Instagram</a>
 											</li>
-											<li>
-												<a class="pin" href="<?php getlinks("links","pinterest");?>">
-													<i class="fab fa-pinterest"></i>
-													<span class="count"></span> Pinterest</a>
-												</li>
-
 											</ul>
 										</div>
 										<div class="tech-btm">

@@ -291,15 +291,10 @@ function getlinks($table,$platform){
 					# code...
 				echo ''.$site['googleplus'].'';
 			}
-			elseif ($platform=="pinterest") {
+			elseif ($platform=="instagram") {
 					# code...
-				echo ''.$site['pinterest'].'';
+				echo ''.$site['instagram'].'';
 			}
-			elseif ($platform=="dribble") {
-					# code...
-				echo ''.$site['dribble'].'';
-			}
-
 		}
 	}
 
